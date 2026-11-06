@@ -1,0 +1,1 @@
+enum UserAppRole { rider, driver }
